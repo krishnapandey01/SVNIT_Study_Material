@@ -1,0 +1,5 @@
+01 87              Sanskar              Jaiswal   BOY  CSE           Satna 20 250
+02 78                Harsh           Khimsuriya   BOY  CSE          Rajkot 20 240
+03 95                Aarti                Otari  GIRL  CSE          Mumbai 19 230
+04 108              DHAIRYA                  OZA   BOY  CSE       Ahemdabad 20 220
+05 110              Krishna               Pandey   BOY  CSE           KARWI 20 210

@@ -1,0 +1,17 @@
+LXI B, C9A8H
+
+LXI D, 2A8DH
+
+MOV A, C
+
+SBB E
+
+STA 5001H
+
+MOV A, B
+
+SBB D
+
+STA 5000H
+
+HLT

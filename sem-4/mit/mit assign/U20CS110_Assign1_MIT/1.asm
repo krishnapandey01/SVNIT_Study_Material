@@ -1,0 +1,5 @@
+ADI 25H
+
+STA 3000H
+
+HLT

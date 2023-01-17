@@ -1,0 +1,11 @@
+MVI B, 0ABH
+
+MVI C, 02BH
+
+MOV A, B
+
+SUB C
+
+STA 0007
+
+HLT

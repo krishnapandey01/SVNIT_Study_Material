@@ -1,0 +1,11 @@
+MVI B, 0AH
+
+MVI C, 0BH
+
+ADD B
+
+ADD C
+
+STA 000AH
+
+HLT
