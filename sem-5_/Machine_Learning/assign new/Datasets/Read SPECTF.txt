@@ -1,0 +1,5 @@
+url = 'https://archive.ics.uci.edu/ml/machine-learning-databases/spect/SPECTF.test'
+col_names = ['target', 'F1R', 'F1S', 'F2R', 'F2S', 'F3R', 'F3S', 'F4R', 'F4S', 'F5R','F5S','F6R','F6S','F7R','F7S','F8R','F8S','F9R','F9S','F10R',
+    'F10S',  'F11R','F11S','F12R','F12S','F13R','F13S','F14R','F14S','F15R','F15S','F16R','F16S','F17R','F17S','F18R','F18S','F19R','F19S',   'F20R',
+    'F20S','F21R','F21S','F22R','F22S']
+spectf= pd.read_table(url,sep=',',names=col_names)
